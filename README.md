@@ -33,3 +33,14 @@ c. Do accidents in poor visibility (IMC conditions) result in more injuries and 
 
 d. Does engine type have a meaningful effect on accident severity?
 
+
+
+
+### FINDINGS
+**Large aircraft:** Boeing and McDonnell Douglas models (especially the 777 and 757) consistently show the lowest injury rates
+
+**Small aircraft:** Cessna 172SP and Diamond DA-20 stand out as the safest small plane models
+
+**Weather matters:** Accidents in poor visibility (IMC) are significantly more severe than those in clear conditions
+
+**Engine type matters:** Jet-powered aircraft have far lower injury rates than piston-engine planes largely because jets are operated commercially with professional crews and stricter maintenance
